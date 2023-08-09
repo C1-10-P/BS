@@ -98,7 +98,7 @@
 			</li>
 			<li>
 				<a href="#0" class="img_container">
-					<img src="img/banners_cat_placeholder.jpg" data-src="img/banner_3.jpg" alt="" class="lazy">
+					<img src="images/c.jpeg" data-src="images/c.jpeg" alt="" class="lazy">
 					<div class="short_info opacity-mask" data-opacity-mask="rgba(0, 0, 0, 0.5)">
 						<h3>Kids's Collection</h3>
 						<div><span class="btn_1">Shop Now</span></div>
