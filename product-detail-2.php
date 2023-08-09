@@ -240,7 +240,7 @@
 	                                </div>
 	                            </div>
 	                            <!-- /row -->
-	                            <p class="text-end"><a href="leave-review.html" class="btn_1">Leave a review</a></p>
+	                            <p class="text-end"><a href="leave-review.php" class="btn_1">Leave a review</a></p>
 	                        </div>
 	                        <!-- /card-body -->
 	                    </div>
@@ -264,12 +264,12 @@
 	                <div class="grid_item">
 	                    <span class="ribbon new">New</span>
 	                    <figure>
-	                        <a href="product-detail-1.html">
+	                        <a href="product-detail-1.php">
 	                            <img class="owl-lazy" src="img/products/product_placeholder_square_medium.jpg" data-src="img/products/shoes/4.jpg" alt="">
 	                        </a>
 	                    </figure>
 	                    <div class="rating"><i class="icon-star voted"></i><i class="icon-star voted"></i><i class="icon-star voted"></i><i class="icon-star voted"></i><i class="icon-star"></i></div>
-	                    <a href="product-detail-1.html">
+	                    <a href="product-detail-1.php">
 	                        <h3>ACG React Terra</h3>
 	                    </a>
 	                    <div class="price_box">
@@ -288,12 +288,12 @@
 	                <div class="grid_item">
 	                    <span class="ribbon new">New</span>
 	                    <figure>
-	                        <a href="product-detail-1.html">
+	                        <a href="product-detail-1.php">
 	                            <img class="owl-lazy" src="img/products/product_placeholder_square_medium.jpg" data-src="img/products/shoes/5.jpg" alt="">
 	                        </a>
 	                    </figure>
 	                    <div class="rating"><i class="icon-star voted"></i><i class="icon-star voted"></i><i class="icon-star voted"></i><i class="icon-star voted"></i><i class="icon-star"></i></div>
-	                    <a href="product-detail-1.html">
+	                    <a href="product-detail-1.php">
 	                        <h3>Air Zoom Alpha</h3>
 	                    </a>
 	                    <div class="price_box">
@@ -312,12 +312,12 @@
 	                <div class="grid_item">
 	                    <span class="ribbon hot">Hot</span>
 	                    <figure>
-	                        <a href="product-detail-1.html">
+	                        <a href="product-detail-1.php">
 	                            <img class="owl-lazy" src="img/products/product_placeholder_square_medium.jpg" data-src="img/products/shoes/8.jpg" alt="">
 	                        </a>
 	                    </figure>
 	                    <div class="rating"><i class="icon-star voted"></i><i class="icon-star voted"></i><i class="icon-star voted"></i><i class="icon-star voted"></i><i class="icon-star"></i></div>
-	                    <a href="product-detail-1.html">
+	                    <a href="product-detail-1.php">
 	                        <h3>Air Color 720</h3>
 	                    </a>
 	                    <div class="price_box">
@@ -336,12 +336,12 @@
 	                <div class="grid_item">
 	                    <span class="ribbon off">-30%</span>
 	                    <figure>
-	                        <a href="product-detail-1.html">
+	                        <a href="product-detail-1.php">
 	                            <img class="owl-lazy" src="img/products/product_placeholder_square_medium.jpg" data-src="img/products/shoes/2.jpg" alt="">
 	                        </a>
 	                    </figure>
 	                    <div class="rating"><i class="icon-star voted"></i><i class="icon-star voted"></i><i class="icon-star voted"></i><i class="icon-star voted"></i><i class="icon-star"></i></div>
-	                    <a href="product-detail-1.html">
+	                    <a href="product-detail-1.php">
 	                        <h3>Okwahn II</h3>
 	                    </a>
 	                    <div class="price_box">
@@ -361,12 +361,12 @@
 	                <div class="grid_item">
 	                    <span class="ribbon off">-50%</span>
 	                    <figure>
-	                        <a href="product-detail-1.html">
+	                        <a href="product-detail-1.php">
 	                            <img class="owl-lazy" src="img/products/product_placeholder_square_medium.jpg" data-src="img/products/shoes/3.jpg" alt="">
 	                        </a>
 	                    </figure>
 	                    <div class="rating"><i class="icon-star voted"></i><i class="icon-star voted"></i><i class="icon-star voted"></i><i class="icon-star voted"></i><i class="icon-star"></i></div>
-	                    <a href="product-detail-1.html">
+	                    <a href="product-detail-1.php">
 	                        <h3>Air Wildwood ACG</h3>
 	                    </a>
 	                    <div class="price_box">
@@ -446,7 +446,7 @@
 	                    </div>
 	                </div>
 	                <div class="col-md-5 btn_panel">
-	                    <a href="cart.html" class="btn_1 outline">View cart</a> <a href="checkout.html" class="btn_1">Checkout</a>
+	                    <a href="cart.php" class="btn_1 outline">View cart</a> <a href="checkout.php" class="btn_1">Checkout</a>
 	                </div>
 	            </div>
 	        </div>

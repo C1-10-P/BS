@@ -9,7 +9,7 @@
 							<li><a href="about.php">About us</a></li>
 							<li><a href="help.php">Help</a></li>
 							
-							<li><a href="account.html">My account</a></li>
+							<li><a href="account.php">My account</a></li>
 							<li><a href="blog.php">Blog</a></li>
 							<li><a href="contacts.php">Contacts</a></li>
 						</ul>
@@ -19,12 +19,12 @@
 					<h3 data-bs-target="#collapse_2">Genres</h3>
 					<div class="collapse dont-collapse-sm links" id="collapse_2">
 						<ul>
-							<li><a href="listing-grid-2-full.html">True Crime</a></li>
-							<li><a href="listing-grid-2-full.html">Horror</a></li>
-							<li><a href="listing-grid-2-full.html">Autobiographies</a></li>
-							<li><a href="listing-grid-2.html">Philosophy</a></li>
-							<li><a href="listing-grid-2-full.html">Humour</a></li>
-							<li><a href="listing-grid-2-full.html">Non Fiction</a></li>
+							<li><a href="listing-grid-2-full.php">True Crime</a></li>
+							<li><a href="listing-grid-2-full.php">Horror</a></li>
+							<li><a href="listing-grid-2-full.php">Autobiographies</a></li>
+							<li><a href="listing-grid-2.php">Philosophy</a></li>
+							<li><a href="listing-grid-2-full.php">Humour</a></li>
+							<li><a href="listing-grid-2-full.php">Non Fiction</a></li>
 						</ul>
 					</div>
 				</div>

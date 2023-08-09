@@ -246,7 +246,7 @@
 								</label>
 							</div>
 						
-						<a href="confirm.html" class="btn_1 full-width">Confirm and Pay</a>
+						<a href="confirm.php" class="btn_1 full-width">Confirm and Pay</a>
 					</div>
 					<!-- /box_general -->
 					</div>

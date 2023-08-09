@@ -76,7 +76,7 @@
 								</figure>
 								<div class="post_info">
 									<small>Category - 20 Nov. 2017</small>
-									<h2><a href="blog-post.html">Ea exerci option hendrerit</a></h2>
+									<h2><a href="blog-post.php">Ea exerci option hendrerit</a></h2>
 									<p>Quodsi sanctus pro eu, ne audire scripserit quo. Vel an enim offendit salutandi, in eos quod omnes epicurei, ex veri qualisque scriptorem mei.</p>
 									<ul>
 										<li>
@@ -92,13 +92,13 @@
 						<div class="col-md-6">
 							<article class="blog">
 								<figure>
-									<a href="blog-post.html"><img src="img/blog-2.jpg" alt="">
+									<a href="blog-post.php"><img src="img/blog-2.jpg" alt="">
 										<div class="preview"><span>Read more</span></div>
 									</a>
 								</figure>
 								<div class="post_info">
 									<small>Category - 20 Nov. 2017</small>
-									<h2><a href="blog-post.html">At usu sale dolorum offendit</a></h2>
+									<h2><a href="blog-post.php">At usu sale dolorum offendit</a></h2>
 									<p>Quodsi sanctus pro eu, ne audire scripserit quo. Vel an enim offendit salutandi, in eos quod omnes epicurei, ex veri qualisque scriptorem mei.</p>
 									<ul>
 										<li>
@@ -114,13 +114,13 @@
 						<div class="col-md-6">
 							<article class="blog">
 								<figure>
-									<a href="blog-post.html"><img src="img/blog-3.jpg" alt="">
+									<a href="blog-post.php"><img src="img/blog-3.jpg" alt="">
 										<div class="preview"><span>Read more</span></div>
 									</a>
 								</figure>
 								<div class="post_info">
 									<small>Category - 20 Nov. 2017</small>
-									<h2><a href="blog-post.html">Iusto nominavi petentium in</a></h2>
+									<h2><a href="blog-post.php">Iusto nominavi petentium in</a></h2>
 									<p>Quodsi sanctus pro eu, ne audire scripserit quo. Vel an enim offendit salutandi, in eos quod omnes epicurei, ex veri qualisque scriptorem mei.</p>
 									<ul>
 										<li>
@@ -136,13 +136,13 @@
 						<div class="col-md-6">
 							<article class="blog">
 								<figure>
-									<a href="blog-post.html"><img src="img/blog-4.jpg" alt="">
+									<a href="blog-post.php"><img src="img/blog-4.jpg" alt="">
 										<div class="preview"><span>Read more</span></div>
 									</a>
 								</figure>
 								<div class="post_info">
 									<small>Category - 20 Nov. 2017</small>
-									<h2><a href="blog-post.html">Assueverit concludaturque quo</a></h2>
+									<h2><a href="blog-post.php">Assueverit concludaturque quo</a></h2>
 									<p>Quodsi sanctus pro eu, ne audire scripserit quo. Vel an enim offendit salutandi, in eos quod omnes epicurei, ex veri qualisque scriptorem mei.</p>
 									<ul>
 										<li>
@@ -158,13 +158,13 @@
 						<div class="col-md-6">
 							<article class="blog">
 								<figure>
-									<a href="blog-post.html"><img src="img/blog-5.jpg" alt="">
+									<a href="blog-post.php"><img src="img/blog-5.jpg" alt="">
 										<div class="preview"><span>Read more</span></div>
 									</a>
 								</figure>
 								<div class="post_info">
 									<small>Category - 20 Nov. 2017</small>
-									<h2><a href="blog-post.html">Nec nihil menandri appellantur</a></h2>
+									<h2><a href="blog-post.php">Nec nihil menandri appellantur</a></h2>
 									<p>Quodsi sanctus pro eu, ne audire scripserit quo. Vel an enim offendit salutandi, in eos quod omnes epicurei, ex veri qualisque scriptorem mei.</p>
 									<ul>
 										<li>
@@ -180,13 +180,13 @@
 						<div class="col-md-6">
 							<article class="blog">
 								<figure>
-									<a href="blog-post.html"><img src="img/blog-6.jpg" alt="">
+									<a href="blog-post.php"><img src="img/blog-6.jpg" alt="">
 										<div class="preview"><span>Read more</span></div>
 									</a>
 								</figure>
 								<div class="post_info">
 									<small>Category - 20 Nov. 2017</small>
-									<h2><a href="blog-post.html">Te congue everti his salutandi</a></h2>
+									<h2><a href="blog-post.php">Te congue everti his salutandi</a></h2>
 									<p>Quodsi sanctus pro eu, ne audire scripserit quo. Vel an enim offendit salutandi, in eos quod omnes epicurei, ex veri qualisque scriptorem mei.</p>
 									<ul>
 										<li>

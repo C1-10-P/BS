@@ -56,7 +56,7 @@
 								</label>
 							</div>
 						</div>
-						<a href="confirm.html" class="btn_1">Submit review</a>
+						<a href="confirm.php" class="btn_1">Submit review</a>
 					</div>
 				</div>
 		</div>

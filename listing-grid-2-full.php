@@ -42,7 +42,7 @@
 					</li>
 					<li>
 						<a href="#0"><i class="ti-view-grid"></i></a>
-						<a href="listing-row-1-sidebar-left.html"><i class="ti-view-list"></i></a>
+						<a href="listing-row-1-sidebar-left.php"><i class="ti-view-list"></i></a>
 					</li>
 					<li>
 						<a data-bs-toggle="collapse" href="#filters" role="button" aria-expanded="false" aria-controls="filters">
@@ -210,12 +210,12 @@
 					<div class="grid_item">
 						<figure>
 							<span class="ribbon off">-30%</span>
-							<a href="product-detail-1.html">
+							<a href="product-detail-1.php">
 								<img class="img-fluid lazy" src="img/products/product_placeholder_square_medium.jpg" data-src="img/products/shoes/1.jpg" alt="">
 							</a>
 							<div data-countdown="2019/05/15" class="countdown"></div>
 						</figure>
-						<a href="product-detail-1.html">
+						<a href="product-detail-1.php">
 							<h3>Armor Air x Fear</h3>
 						</a>
 						<div class="price_box">
@@ -236,12 +236,12 @@
 					<div class="grid_item">
 						<span class="ribbon off">-30%</span>
 						<figure>
-							<a href="product-detail-1.html">
+							<a href="product-detail-1.php">
 								<img class="img-fluid lazy" src="img/products/product_placeholder_square_medium.jpg" data-src="img/products/shoes/2.jpg" alt="">
 							</a>
 							<div data-countdown="2019/05/10" class="countdown"></div>
 						</figure>
-						<a href="product-detail-1.html">
+						<a href="product-detail-1.php">
 							<h3>Armor Okwahn II</h3>
 						</a>
 						<div class="price_box">
@@ -262,12 +262,12 @@
 					<div class="grid_item">
 						<span class="ribbon off">-50%</span>
 						<figure>
-							<a href="product-detail-1.html">
+							<a href="product-detail-1.php">
 								<img class="img-fluid lazy" src="img/products/product_placeholder_square_medium.jpg" data-src="img/products/shoes/3.jpg" alt="">
 							</a>
 							<div data-countdown="2019/05/21" class="countdown"></div>
 						</figure>
-						<a href="product-detail-1.html">
+						<a href="product-detail-1.php">
 							<h3>Armor Air Wildwood ACG</h3>
 						</a>
 						<div class="price_box">
@@ -288,11 +288,11 @@
 					<div class="grid_item">
 						<span class="ribbon new">New</span>
 						<figure>
-							<a href="product-detail-1.html">
+							<a href="product-detail-1.php">
 								<img class="img-fluid lazy" src="img/products/product_placeholder_square_medium.jpg" data-src="img/products/shoes/4.jpg" alt="">
 							</a>
 						</figure>
-						<a href="product-detail-1.html">
+						<a href="product-detail-1.php">
 							<h3>Armor ACG React Terra</h3>
 						</a>
 						<div class="price_box">
@@ -312,11 +312,11 @@
 					<div class="grid_item">
 						<span class="ribbon new">New</span>
 						<figure>
-							<a href="product-detail-1.html">
+							<a href="product-detail-1.php">
 								<img class="img-fluid lazy" src="img/products/product_placeholder_square_medium.jpg" data-src="img/products/shoes/5.jpg" alt="">
 							</a>
 						</figure>
-						<a href="product-detail-1.html">
+						<a href="product-detail-1.php">
 							<h3>Armor Air Zoom Alpha</h3>
 						</a>
 						<div class="price_box">
@@ -336,11 +336,11 @@
 					<div class="grid_item">
 						<span class="ribbon new">New</span>
 						<figure>
-							<a href="product-detail-1.html">
+							<a href="product-detail-1.php">
 								<img class="img-fluid lazy" src="img/products/product_placeholder_square_medium.jpg" data-src="img/products/shoes/6.jpg" alt="">
 							</a>
 						</figure>
-						<a href="product-detail-1.html">
+						<a href="product-detail-1.php">
 							<h3>Armor Air Alpha</h3>
 						</a>
 						<div class="price_box">
@@ -360,11 +360,11 @@
 					<div class="grid_item">
 						<span class="ribbon hot">Hot</span>
 						<figure>
-							<a href="product-detail-1.html">
+							<a href="product-detail-1.php">
 								<img class="img-fluid lazy" src="img/products/product_placeholder_square_medium.jpg" data-src="img/products/shoes/7.jpg" alt="">
 							</a>
 						</figure>
-						<a href="product-detail-1.html">
+						<a href="product-detail-1.php">
 							<h3>Armor Air 98</h3>
 						</a>
 						<div class="price_box">
@@ -384,11 +384,11 @@
 					<div class="grid_item">
 						<span class="ribbon hot">Hot</span>
 						<figure>
-							<a href="product-detail-1.html">
+							<a href="product-detail-1.php">
 								<img class="img-fluid lazy" src="img/products/product_placeholder_square_medium.jpg" data-src="img/products/shoes/8.jpg" alt="">
 							</a>
 						</figure>
-						<a href="product-detail-1.html">
+						<a href="product-detail-1.php">
 							<h3>Armor Air 720</h3>
 						</a>
 						<div class="price_box">
